@@ -58,7 +58,7 @@ body{
 .top-row{
   position: absolute;
   top: 0px;
-  right: 0px;
+  right: 5px;
   padding: 20px 0px;
   box-sizing: border-box;
 }
